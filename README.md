@@ -1,20 +1,14 @@
-# Hi there, I'm Romaric! 👋
+# Hi there, I'm Ifèdé! 👋
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+Something+New!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Problem+Solver;Always+Learning+Something+New!)
   
 </div>
 
 ## 🚀 About Me
 
 I'm a passionate developer who loves building innovative solutions and contributing to the tech community. Currently working on exciting projects that bridge technology and real-world impact.
-
-- 🔭 I'm currently working on **Brain Marketplace** - revolutionizing how we connect talent and opportunities
-- 🌱 I'm constantly learning and exploring new technologies
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about **web development, APIs, and software architecture**
-- ⚡ Fun fact: I love tackling TypeScript challenges and building full-stack applications
 
 ## 🛠️ Tech Stack
 
@@ -26,14 +20,12 @@ I'm a passionate developer who loves building innovative solutions and contribut
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Tools & Technologies
@@ -80,7 +72,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:assogbaromaricci@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 </div>
