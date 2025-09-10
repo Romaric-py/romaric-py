@@ -38,9 +38,6 @@ I'm a passionate developer who loves building innovative solutions and contribut
 ## 🎯 Featured Projects
 
 <div align="center">
-  
-[![Brain Marketplace API](https://github-readme-stats.vercel.app/api/pin/?username=Africa-Brain&repo=brain-marketplace-api&theme=radical)](https://github.com/Africa-Brain/brain-marketplace-api)
-[![Brain Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Africa-Brain&repo=brain-front&theme=radical)](https://github.com/Africa-Brain/brain-front)
 
 [![PostTee](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=PostTee&theme=radical)](https://github.com/Romaric-py/PostTee)
 [![Roadmap Projects](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=roadmap-sh-projects&theme=radical)](https://github.com/Romaric-py/roadmap-sh-projects)
