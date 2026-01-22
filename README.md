@@ -47,7 +47,6 @@ I'm deeply involved in the **Africa-Brain** ecosystem and love solving complex p
 
 ### 🌐 Web Development & Systems
 [![Open Survey Monitor](https://github-readme-stats.vercel.app/api/pin/?username=manfoya&repo=open-survey-monitor&theme=radical&show_owner=true)](https://github.com/manfoya/open-survey-monitor)
-**[🔗 Live Preview: Open Survey Monitor](https://osm-frontend-opal.vercel.app/)**
 
 [![PostTee](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=PostTee&theme=radical)](https://github.com/Romaric-py/PostTee)
 
@@ -60,6 +59,11 @@ I'm deeply involved in the **Africa-Brain** ecosystem and love solving complex p
 [![Roadmap Projects](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=roadmap-sh-projects&theme=radical)](https://github.com/Romaric-py/roadmap-sh-projects)
 
 </div>
+
+---
+## Deployments
+
+**[🔗 Live Preview: Open Survey Monitor](https://osm-frontend-opal.vercel.app/)**
 
 ---
 
