@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Future+ML+Engineer;INSA+Rouen+Normandie;Problem+Solver)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Future+ML+Engineer;INSA+Rouen+Normandie;Problem+Solver)
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/if%C3%A8d%C3%A9-cedric-romaric-assogba-b6095a320/)
   [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:assogbaromaricci@gmail.com)
@@ -12,10 +12,10 @@
 
 ## 🚀 About Me
 
-I'm an **Élève-ingénieur at INSA Rouen Normandie**, passionate about **Machine Learning Engineering** and **scalable backend architectures**.  
+I'm an **Élève-ingénieur at INSA Rouen Normandie**, passionate about **Machine Learning Engineering** and **scalable fullstack architectures**.  
 I'm deeply involved in the **Africa-Brain** ecosystem and love solving complex problems through code.
 
-- 🏗️ Currently mastering **NestJS, Prisma & PostgreSQL**.
+- 🏗️ Currently mastering **NestJS, Prisma, React, Next.js & PostgreSQL**.
 - 🤖 Exploring the depths of **Deep Learning** with PyTorch and TensorFlow.
 - 💡 Focused on writing **clean, type-safe code** (TypeScript enthusiast).
 
