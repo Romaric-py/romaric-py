@@ -41,10 +41,23 @@ I'm deeply involved in the **Africa-Brain** ecosystem and love solving complex p
 
 <div align="center">
 
-[![PostTee](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=PostTee&theme=radical)](https://github.com/Romaric-py/PostTee)
-[![OSM](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=osm-frontend&theme=radical)](https://github.com/Romaric-py/osm-frontend)
+### 🤖 Machine Learning & Data Science
+[![Music Genre Classification](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=music_genre_classification&theme=radical)](https://github.com/Romaric-py/music_genre_classification)
+[![Boston Housing Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=boston_housing_prediction&theme=radical)](https://github.com/Romaric-py/boston_housing_prediction)
 
-**Live Project:** [Open Survey Monitor (OSM)](https://osm-frontend.vercel.app/) - A modern survey management platform.
+### 🌐 Web Development & Systems
+[![Open Survey Monitor](https://github-readme-stats.vercel.app/api/pin/?username=manfoya&repo=open-survey-monitor&theme=radical&show_owner=true)](https://github.com/manfoya/open-survey-monitor)
+**[🔗 Live Preview: Open Survey Monitor](https://osm-frontend-opal.vercel.app/)**
+
+[![PostTee](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=PostTee&theme=radical)](https://github.com/Romaric-py/PostTee)
+
+### 🏦 Register Manager (Fullstack System)
+*Système de gestion des inscriptions sécurisé.*
+![Backend](https://img.shields.io/badge/API-NestJS%20%7C%20Prisma%20%7C%20PostgreSQL-E0234E?style=flat-square&logo=nestjs) ![Frontend](https://img.shields.io/badge/Client-React%20%7C%20TypeScript%20%7C%20Tailwind-3178C6?style=flat-square&logo=react)
+
+### 🛠️ Utilities & Tools
+[![YT Downloader](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=yt_downloader&theme=radical)](https://github.com/Romaric-py/yt_downloader)
+[![Roadmap Projects](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=roadmap-sh-projects&theme=radical)](https://github.com/Romaric-py/roadmap-sh-projects)
 
 </div>
 
