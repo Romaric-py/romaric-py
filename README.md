@@ -52,7 +52,10 @@ I'm deeply involved in the **Africa-Brain** ecosystem and love solving complex p
 
 ### 🏦 Register Manager (Fullstack System)
 *Système de gestion des inscriptions sécurisé.*
-![Backend](https://img.shields.io/badge/API-NestJS%20%7C%20Prisma%20%7C%20PostgreSQL-E0234E?style=flat-square&logo=nestjs) ![Frontend](https://img.shields.io/badge/Client-React%20%7C%20TypeScript%20%7C%20Tailwind-3178C6?style=flat-square&logo=react)
+[![Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=register-manager-frontend&theme=radical)](https://github.com/Romaric-py/register-manager-frontend)
+[![Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=register-manager-api&theme=radical)](https://github.com/Romaric-py/register-manager-api)
+![Backend](https://img.shields.io/badge/API-NestJS%20%7C%20Prisma%20%7C%20PostgreSQL-E0234E?style=flat-square&logo=nestjs) 
+![Frontend](https://img.shields.io/badge/Client-React%20%7C%20TypeScript%20%7C%20Tailwind-3178C6?style=flat-square&logo=react)
 
 ### 🛠️ Utilities & Tools
 [![YT Downloader](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=yt_downloader&theme=radical)](https://github.com/Romaric-py/yt_downloader)
