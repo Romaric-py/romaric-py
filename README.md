@@ -51,7 +51,7 @@ I'm deeply involved in the **Africa-Brain** ecosystem and love solving complex p
 [![PostTee](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=PostTee&theme=radical)](https://github.com/Romaric-py/PostTee)
 
 ### 🏦 Register Manager (Fullstack System)
-[![Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=register-manager-front&theme=radical)](https://github.com/Romaric-py/register-manager-front)
+[![Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=register-manager-front&theme=radical&cache_seconds=1)](https://github.com/Romaric-py/register-manager-front)
 [![Backend](https://github-readme-stats.vercel.app/api/pin/?username=Romaric-py&repo=register-manager-api&theme=radical&cache_seconds=1)](https://github.com/Romaric-py/register-manager-api)
 
 
