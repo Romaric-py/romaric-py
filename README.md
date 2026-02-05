@@ -68,7 +68,7 @@ I'm deeply involved in the **Africa-Brain** ecosystem and love solving complex p
 ---
 ## Deployments
 
-**[🔗 Live Preview: Open Survey Monitor](https://osm-frontend-opal.vercel.app/)**
+**[🔗 Live Preview: Open Survey Monitor]([https://osm-frontend-opal.vercel.app/](https://osm-frontend-pewtm9fey-ifede-assogbas-projects.vercel.app/))**
 
 ---
 
